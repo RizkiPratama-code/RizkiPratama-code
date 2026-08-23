@@ -62,10 +62,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkiPratama-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiPratama-code&layout=compact&theme=dracula&langs_count=6" height="160" alt="Top languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiPratama-code&theme=radical" alt="GitHub Streak" />
+</p>
 
 ###
 
