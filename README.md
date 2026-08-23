@@ -63,8 +63,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RizkiPratama-code&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiPratama-code&layout=compact&theme=dracula&hide_border=true&langs_count=5" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkiPratama-code&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiPratama-code&layout=compact&theme=dracula&langs_count=6" height="160" alt="Top languages" />
 </div>
 
 ###
