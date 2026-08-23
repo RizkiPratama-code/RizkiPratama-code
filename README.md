@@ -62,9 +62,9 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkiPratama-code&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RizkiPratama-code/RizkiPratama-code/stats-output/stats.svg" alt="GitHub Stats" />
+</div>
 
 ###
 
