@@ -62,9 +62,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RizkiPratama-code/RizkiPratama-code/stats-output/stats.svg" alt="GitHub Stats" />
-</div>
+[![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizkiPratama-code&show_icons=true&theme=dracula)](https://github.com/RizkiPratama-code)
 
 ###
 
