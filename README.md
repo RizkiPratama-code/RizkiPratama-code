@@ -65,3 +65,8 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkiPratama-code&show_icons=true&theme=radial" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiPratama-code&layout=compact&theme=radial" alt="Top Languages" />
+</div>
