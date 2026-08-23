@@ -65,7 +65,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/RizkiPratama-code/RizkiPratama-code/stats-output/stats.svg" alt="GitHub Stats" />
 </div>
-
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/RizkiPratama-code/RizkiPratama-code/snake-output/snake.svg" alt="Snake animation" />
