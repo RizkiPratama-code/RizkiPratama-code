@@ -62,7 +62,7 @@
   </a>
 </div>
 
-[![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=RizkiPratama-code&show_icons=true&theme=dracula)](https://github.com/RizkiPratama-code)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RizkiPratama-code)](https://github.com/stats-organization/github-stats-extended)
 
 ###
 
