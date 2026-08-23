@@ -1,6 +1,5 @@
 <img data-importer="image" align="right" height="370" src="https://www.image2url.com/r2/default/gifs/1787454709659-4ea6aa0a-1e81-4d34-bd25-b0cedccb9815.gif"  />
 
-###
 
 <h1 data-importer="text" align="left">Hi👋I'm M.Rizki Pratama</h1>
 
