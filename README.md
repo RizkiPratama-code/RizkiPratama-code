@@ -62,6 +62,17 @@
 
 ###
 
+###
+
+<!-- BAGIAN STATS BARU ADA DI SINI -->
+<div align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub stats" />
+  <img width="12" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top languages" />
+</div>
+
+###
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/RizkiPratama-code/RizkiPratama-code/snake-output/snake.svg" alt="Snake animation" />
 
 ###
