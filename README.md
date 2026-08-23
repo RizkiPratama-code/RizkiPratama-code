@@ -48,15 +48,7 @@
 
 ###
 
-### Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RizkiPratama-code&theme=maroongold&show_icons=true&)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkiPratama-code&card_width=495&langs_count=7&layout=compact&theme=maroongold)
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@RizkiPratama-code&langs_count=7&layout=compact&theme=maroongold)
-
-###
 
 <div data-importer="socials" align="center">
   <a href="http://www.linkedin.com/in/m-rizki-pratama" target="_blank">
