@@ -1,4 +1,6 @@
-<img data-importer="image" align="right" height="370" src="https://www.image2url.com/r2/default/gifs/1787454709659-4ea6aa0a-1e81-4d34-bd25-b0cedccb9815.gif"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="370" src="https://www.image2url.com/r2/default/gifs/1787454709659-4ea6aa0a-1e81-4d34-bd25-b0cedccb9815.gif"  />
+</div>
 
 ###
 
@@ -31,8 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
@@ -48,8 +48,6 @@
 
 ###
 
-
-
 <div data-importer="socials" align="center">
   <a href="http://www.linkedin.com/in/m-rizki-pratama" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -61,8 +59,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=RizkiPratama-code)](https://github.com/stats-organization/github-stats-extended)
 
 ###
 
