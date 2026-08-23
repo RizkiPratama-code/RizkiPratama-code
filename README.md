@@ -57,6 +57,7 @@
 ###
 
 ###
+<h2 data-importer="text" align="left">Stats</h2>
 
 <!-- BAGIAN STATS BARU ADA DI SINI -->
 <div align="center">
